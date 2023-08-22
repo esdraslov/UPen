@@ -11,7 +11,7 @@
         },
         {
             "src": "./UPen96.png",
-            "sizes": "96x96 "
+            "sizes": "96x96"
         }
     ],
     "theme_color": "blue"
