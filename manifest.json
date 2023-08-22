@@ -7,11 +7,11 @@
     "icons": [
         {
             "src": "./UPen.png",
-            "sizes": "48x48 72x72"
+            "sizes": "48x48"
         },
         {
             "src": "./UPen96.png",
-            "sizes": "96x96 114x144"
+            "sizes": "96x96 "
         }
     ]
 }
