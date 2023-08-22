@@ -13,5 +13,11 @@
             "src": "./UPen96.png",
             "sizes": "96x96 "
         }
+    ],
+    "shortcuts": [
+        {
+            "name": "Draw",
+            "url": "./draw"
+        }
     ]
 }
