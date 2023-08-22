@@ -1,0 +1,7 @@
+{
+    "name": "UPen Desktop",
+    "short_name": "UPen",
+    "start_url": "./",
+    "description": "Draw and learn free and outside",
+    "display": "fullscreen"
+}
