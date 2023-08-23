@@ -12,6 +12,10 @@
         {
             "src": "./UPen96.png",
             "sizes": "96x96"
+        },
+        {
+            "src": "./UPen144.png",
+            "sizes": "144x144"
         }
     ],
     "theme_color": "blue"
