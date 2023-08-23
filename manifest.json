@@ -18,5 +18,11 @@
             "sizes": "144x144"
         }
     ],
-    "theme_color": "blue"
+    "theme_color": "blue",
+    "shortcuts": [
+        {
+            "name": "Draw",
+            "url": "./draw/"
+        }
+    ]
 }
