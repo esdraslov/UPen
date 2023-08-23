@@ -24,7 +24,8 @@
             "name": "Draw",
             "url": "/draw",
             "description": "Draw anything",
-            "icon": "./UPen96.png"
+            "icon": "./UPen96.png",
+            "sizes": "96x96"
         }
     ]
 }
