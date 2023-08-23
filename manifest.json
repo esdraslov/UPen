@@ -3,7 +3,7 @@
     "short_name": "UPen",
     "start_url": "./",
     "description": "Draw and learn free and outside",
-    "display": "fullscreen",
+    "display": "standalone",
     "icons": [
         {
             "src": "./UPen.png",
