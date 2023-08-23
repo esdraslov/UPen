@@ -22,7 +22,9 @@
     "shortcuts": [
         {
             "name": "Draw",
-            "url": "/draw"
+            "url": "/draw",
+            "description": "Draw anything",
+            "icon": "./UPen96.png"
         }
     ]
 }
