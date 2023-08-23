@@ -22,7 +22,7 @@
     "shortcuts": [
         {
             "name": "Draw",
-            "url": "./draw/"
+            "url": "/draw"
         }
     ]
 }
