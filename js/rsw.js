@@ -1,2 +1,2 @@
-navigator.serviceWorker.register('./js/sw.js')
+navigator.serviceWorker.register('./sw.js')
   .then(() => console.log('ok'))
