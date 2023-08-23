@@ -23,9 +23,7 @@
         {
             "name": "Draw",
             "url": "/draw",
-            "description": "Draw anything",
-            "icon": "./UPen96.png",
-            "sizes": "96x96"
+            "description": "Draw anything"
         }
     ]
 }
