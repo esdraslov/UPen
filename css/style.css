@@ -9,6 +9,6 @@ li {
   flex-grow: 1;
 }
 
-li button {
+li * {
     width: 100%;
 }
