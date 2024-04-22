@@ -25,5 +25,15 @@
             "url": "/draw",
             "description": "Draw anything"
         }
+    ],
+    "protocol_handlers": [
+        {
+            "protocol": "ms-paint",
+            "url": "/draw/fl=%s"
+        },
+        {
+            "protocol": "web+draw",
+            "url": "/draw"
+        }
     ]
 }
