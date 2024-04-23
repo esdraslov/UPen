@@ -1,5 +1,7 @@
 self.addEventListener('install', () => {
     console.log('ok 1')
+    navigator.registerProtocolHandler("ms-paint", "/draw/?fl=%s")
+    navigator.registerProtocolHandler("web+draw", "/draw")
   })
   
   self.addEventListener('active', () => {
